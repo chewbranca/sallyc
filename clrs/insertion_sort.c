@@ -16,6 +16,7 @@ int main(int argc, char *argv[]) {
   print_int_array("Sorted nums:  ", nums, n);
 }
 
+;; clrs 2.1
 void insertion_sort(int * unsorted, unsigned length) {
   int i, j, key;
 
